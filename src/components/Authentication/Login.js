@@ -62,7 +62,7 @@ class Login extends React.Component {
         <Grid.Column style={{ maxWidth: 450 }}>
           <Header as="h1" icon color="violet" textAlign="center">
             <Icon name="spy" color="violet" />
-            Login to DevChat
+            Login to POPCOM
           </Header>
           <Form onSubmit={this.handleSubmit} size="large">
             <Segment stacked>
@@ -97,7 +97,7 @@ class Login extends React.Component {
                 fluid
                 size="large"
               >
-                Submit
+                Log in
               </Button>
             </Segment>
           </Form>

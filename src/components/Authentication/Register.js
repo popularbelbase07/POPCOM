@@ -204,7 +204,7 @@ class Register extends React.Component {
                 fluid
                 size="large"
               >
-                Submit
+               Signup
               </Button>
             </Segment>
           </Form>
